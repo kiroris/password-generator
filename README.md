@@ -1,6 +1,6 @@
 # Password Generator
 
-![Password Generator](https://your-image-url.com/your-image.png)
+![Password Generator](https://raw.githubusercontent.com/kiroris/password-generator/main/usage.jpg)
 
 Create strong passwords with this simple Python password generator.
 
